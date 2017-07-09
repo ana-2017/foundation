@@ -1,0 +1,14 @@
+body {
+  background-image: url("../img/portada.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.container{
+  background: rgba(0,0,255,0.25);
+}
+h6{
+  text-align: right;
+}
+#img-central{
+  width: 100%
+}
